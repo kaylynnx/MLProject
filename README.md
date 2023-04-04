@@ -18,7 +18,7 @@ The data set can be fouud here: https://archive.ics.uci.edu/ml/datasets/Human+Ac
 
 ## What will you learn
 
-** Kaylynn ** - 
+**Kaylynn** - My goal in my reflective goal sheet was to be an active member in my group. I want to accomplish that by finishing my assigned tasks on time, being respectful, and always listening to other's opinions. In other words, I want to be a better collaborator. I have collaborated in teams before, and I have worked in groups, but I would love to get better at collaboration and my teamwork skills. 
 
 ## Risk Statement
 
