@@ -25,7 +25,10 @@ We will be using the University of California Irvine's [Smartphone-Based Recogni
 **Kaylynn:**\
 My goal in my reflective goal sheet was to be an active member in my group. I want to accomplish that by finishing my assigned tasks on time, being respectful, and always listening to other's opinions. In other words, I want to be a better collaborator. I have collaborated in teams before, and I have worked in groups, but I would love to get better at collaboration and my teamwork skills.\
 **Zayn:**\
-I will ensure that our group will meet often to discuss the progress on the project and make sure that we are all on the same page. I will also make sure that we are all communicating with each other. I will also make sure that we are all submitting our milestones on time and that we are all working on the project. I am going to reinforce my knowledge on the pandas, sklearn, and matplotlibs libraries, as well as any other necessary libraries. At the end, I will revise the project report in response to feedback.
+I will ensure that our group will meet often to discuss the progress on the project and make sure that we are all on the same page. I will also make sure that we are all communicating with each other. I will also make sure that we are all submitting our milestones on time and that we are all working on the project. I am going to reinforce my knowledge on the pandas, sklearn, and matplotlibs libraries, as well as any other necessary libraries. At the end, I will revise the project report in response to feedback. \
+**Mead:**\
+My primary goals for the semester were to get a better grasp of the math and theory behind all that we do and to turn group work into a place where I can learn and help my partners learn. I feel as though this projection is the perfect one for me in that regard. This would require the use or understanding of vectorization for the abstract concept of movement as well as determining what the appropriate algorithm for prediction would be. Both of which would be necessary things for my goal.
+
 
 ## Risk Statement
 
