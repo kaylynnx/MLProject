@@ -10,8 +10,6 @@ We have human activity data that will help us train our algorithm. Our data come
 Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set. The data set consists of 30 volunteers between the ages of 19-48 who were asked to do 6 basic activities: sitting, walking, walking upstairs, walking downstairs, laying down, and standing. According to the authors of this data set, "all the participants were wearing a smartphone (Samsung Galaxy S II) on the waist during the experiment execution." They "captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz using the embedded accelerometer and gyroscope of the device." And finally, they edited the data set by applying noise filters, by using a Butterworth low-pass filter, etc. 
 Given this data set, we can train an algorithm to differentiate between sitting, walking, walking upstairs, walking downstairs, laying down, and standing. This will inform us about current issues in our smart devices, especially within our health and tracking devices. It can help us shape our understanding of future improvements. 
 
-The data set can be fouud here: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
 ## Planned Deliverables
 
 We are planning on submitting one python file with all of our code and functions, as well as a Jupyter notebook to import our data and perform our analysis and visualizations. Since this data was already used to perform an analysis, we will be performing a literature review of those studies./
@@ -24,9 +22,9 @@ We will be using the University of California Irvine's [Smartphone-Based Recogni
 
 ## What You Will Learn
 
-**Kaylynn**
-My goal in my reflective goal sheet was to be an active member in my group. I want to accomplish that by finishing my assigned tasks on time, being respectful, and always listening to other's opinions. In other words, I want to be a better collaborator. I have collaborated in teams before, and I have worked in groups, but I would love to get better at collaboration and my teamwork skills. 
-**Zayn:**
+**Kaylynn:**\
+My goal in my reflective goal sheet was to be an active member in my group. I want to accomplish that by finishing my assigned tasks on time, being respectful, and always listening to other's opinions. In other words, I want to be a better collaborator. I have collaborated in teams before, and I have worked in groups, but I would love to get better at collaboration and my teamwork skills.\
+**Zayn:**\
 I will ensure that our group will meet often to discuss the progress on the project and make sure that we are all on the same page. I will also make sure that we are all communicating with each other. I will also make sure that we are all submitting our milestones on time and that we are all working on the project. I am going to reinforce my knowledge on the pandas, sklearn, and matplotlibs libraries, as well as any other necessary libraries. At the end, I will revise the project report in response to feedback.
 
 ## Risk Statement
